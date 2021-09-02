@@ -13,9 +13,9 @@ Les mêmes tweets ont été introduits dans le réseau afin de produire un texte
 
 
 ### Ouvrir Avec : <br> 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMEZIANEMOHAMED/Mini_Projet/main?filepath=Min_Projet_NLP.ipynb)<br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/ettabtiyouness-mini-projet-nlp-77omop5e/notebooks/Min_Projet_NLP.ipynb)<br>
 Ou bien <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AMEZIANEMOHAMED/Mini_Projet/blob/main/Min_Projet_NLP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ettabtiyouness/Mini-projet-nlp/blob/main/Min_Projet_NLP.ipynb)
 
 
 ### Lire le PDF
